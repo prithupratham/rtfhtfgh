@@ -1,0 +1,31 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 5px yellow;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 2;
+    text-align: center;
+    color: black;
+    text-shadow: honeydew;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: gray;
+    width: 100%;
+    line-height: 4;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px rgb(14, 186, 230);
+}
